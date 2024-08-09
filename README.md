@@ -1,2 +1,3 @@
-# .github
-costarring/.github is a ✨special ✨ repository that you can use to add README.md to your public organization profile, visible to anyone. Make sure it’s public and and initialize it with a README in the profile directory to get started.
+# costarring
+
+Nothing here for the moment
